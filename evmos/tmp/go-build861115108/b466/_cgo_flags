@@ -1,0 +1,2 @@
+_CGO_LDFLAGS=-g -O2
+_CGO_CFLAGS=-I D:\evmos\tmp\go-build861115108\b466\ -g -O2 -Wall -Werror
